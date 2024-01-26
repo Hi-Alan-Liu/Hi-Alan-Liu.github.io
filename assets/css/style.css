@@ -36,8 +36,7 @@
 
 
 :root {
-  --bs-danger: #ff6f32;
-  --bs-danger-rgb: 255,111,50;
-  --bs-warning: #f2ede4;
   --bs-warning-rgb: 242,237,228;
+  --bs-secondary-rgb: 122,106,86;
+  --bs-orange-rgb: 96,76,63;
 }
